@@ -1,0 +1,49 @@
+# Laravel
+/vendor/
+/node_modules/
+/public/storage
+/public/hot
+/storage/*.key
+/storage/oauth-private.key
+/storage/oauth-public.key
+/storage/*.log
+/storage/framework/
+/storage/logs/
+/bootstrap/cache/
+
+# Arquivos de configuração e credenciais
+.env
+.env.*
+.phpunit.result.cache
+/.phpunit.cache
+Homestead.json
+Homestead.yaml
+/auth.json
+
+# Arquivos do PHPStorm, VSCode e outros editores
+/.idea/
+/.vscode/
+/.fleet/
+/.nova/
+/.zed/
+
+# Arquivos temporários do Composer e NPM/Yarn
+/composer.lock
+/package-lock.json
+/yarn.lock
+/npm-debug.log*
+/yarn-error.log*
+
+# Arquivos de cache e depuração
+/phpunit.result.cache
+.phpactor.json
+
+# Docker
+/.docker
+
+# Arquivos de build
+/public/build/
+
+# Outros
+.DS_Store
+Thumbs.db
