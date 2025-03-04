@@ -47,3 +47,4 @@ Homestead.yaml
 # Outros
 .DS_Store
 Thumbs.db
+/letsencrypt
